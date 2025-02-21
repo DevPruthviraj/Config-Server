@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: DEFAULT-SERVICE
+
   
   eureka:
     client:
